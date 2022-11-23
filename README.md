@@ -1,1 +1,1 @@
-https://tailwindcss.com/docs/editor-setup
+https://tailwindcss.com/docs/installation
